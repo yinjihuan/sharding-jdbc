@@ -4,8 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * 分库分表案例
+ * Spring Boot版 Sharding JDBC 分库分表案例
+ * 
  * @author yinjihuan
+ *
+ * @about http://cxytiandi.com/about
  */
 @SpringBootApplication
 public class ShardingDbTableApplication {
