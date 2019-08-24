@@ -21,3 +21,5 @@ sjdbc-db-sharding-table-read-write-range-group-springboot：Spring Boot版 Shard
 [Sharding-JDBC:查询量大如何优化？](https://mp.weixin.qq.com/s/kp2lJHpTMz4bDWkJYjVbOQ)
 
 [Sharding-JDBC:垂直拆分怎么做？](https://mp.weixin.qq.com/s/wl8h6LIQUHztVuVbjfsU3Q)
+
+[Sharding-JDBC:单库分表的实现](http://cxytiandi.com/blog/detail/36400)
